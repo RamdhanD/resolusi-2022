@@ -1,4 +1,5 @@
 RESOLUSI
 - konsisten untuk mempelajari bahasa pemrograman yang tengah dipelajari
 - membuat beberapa hasil dari pembelajaran yang telah dipelajari
-- fokus terhadapa apa yang telah dipelajri
+- fokus terhadap apa yang telah dipelajari
+- terus mereview apa yang telah dipelajari

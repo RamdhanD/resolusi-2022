@@ -4,3 +4,4 @@ detail resolusi
 -mempelajari php framework laravel
 -mepelaljari javascript
 -mempelajari node.js
+

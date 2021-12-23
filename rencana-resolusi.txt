@@ -3,3 +3,4 @@ detail resolusi
 -mempelajari php framework CI
 -mempelajari php framework laravel
 -mepelaljari javascript
+-mempelajari react.js
